@@ -1,0 +1,75 @@
+body{
+  background:#003a7d;
+  font-size: 30px;
+  font-family: Cardo;
+  text-align: center;
+}
+h1{
+  font-family: 'Cardo', cursive;
+  font-weight: lighter;
+}
+h2,h3,h4 {
+  font-family: 'Cardo', serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 24px;
+}
+a {
+  color:#d5daeb;
+  font-size: 24px;
+  font-weight: 24px
+}
+a:hover {
+  text-decoration: none;
+  color: #a06ee1;
+}
+p {
+  color:#fcd307;
+  font-size: 24px;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/210205/pexels-photo-210205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
+  background-size: cover;
+  padding: 150px 0;
+  color: white;
+  text-shadow: 5px 5px 5px black;
+}
+
+#banner h1 {
+  color: #e0a231;
+  font-size: 150px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background:#6789C1;
+}
+
+.card{
+  border: 150px 	
+  padding: 50px;
+  font-weight: lighter;
+
+}
+
+.medium-padding-top {
+	padding-top: 40px;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
